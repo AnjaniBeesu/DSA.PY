@@ -200,7 +200,7 @@ Each index represents a student's marks.
 sales = [1200, 1350, 980, 1500]
 ```
 
-Each element stores sales for one month.
+Each element stores sales for one month...
 
 ---
 
