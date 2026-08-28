@@ -76,7 +76,7 @@ Elements are **not stored sequentially**.
 
 Examples:
 - Tree
-- Graph
+- Graph etc
 
 Tree
 
