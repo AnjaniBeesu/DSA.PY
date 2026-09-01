@@ -2,7 +2,7 @@
 
 ## What is Big O?
 
-### Definition
+### Definition.
 
 Big O notation describes how the number of operations performed by an algorithm grows as the input size (`n`) increases.
 
