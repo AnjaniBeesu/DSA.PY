@@ -5,7 +5,6 @@
 An **array** is a linear data structure that stores multiple elements of the **same data type** in **contiguous (continuous) memory locations**. Each element is identified by an **index**, allowing fast access to any element.
 
 Example:
-
 ```python
 arr = [10, 20, 30, 40, 50]
 ```
