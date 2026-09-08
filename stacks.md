@@ -15,7 +15,6 @@ Think of a stack of plates:
 - Follows LIFO Principle
 - Insertion and deletion happen only at one end (Top)
 - Efficient for recursive and backtracking problems.
-
 ---
 
 # Operations
